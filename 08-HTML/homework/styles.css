@@ -1,0 +1,33 @@
+
+h3 {
+    color: rgb(138, 98, 138);
+    font-weight: bold;
+    
+}
+
+img {
+    width: 150px;
+    
+}
+span {
+    font-weight: bold;
+}
+
+h4 {
+    margin-bottom: 5px;
+    font-style: italic;
+    color:rgb(52, 175, 165);
+}
+
+#Caja {
+    display: flex;
+    height: 150px;
+}
+
+#DescripcionDetalle {
+    width: 80%;
+}
+
+#FotoCv {
+    width: 20%;
+}
